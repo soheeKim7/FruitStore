@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-에러페이지 입니다!!!!
+이 페이지는 에러페이지 입니다!!!!
 </body>
 </html>
