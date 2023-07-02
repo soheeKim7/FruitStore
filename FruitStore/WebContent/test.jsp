@@ -18,7 +18,7 @@ request.setAttribute("com", com);
 %>
 <c:forEach begin="${test==true }" end="${test==false }">
 	${com }
-	%{test=true}
+	${test=true}
 	<c:if test="${com==2 }">
 		${test==false }
 	</c:if>
